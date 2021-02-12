@@ -1,2 +1,2 @@
-# hackercats_website
+# HumongousLizard
 Created with CodeSandbox
